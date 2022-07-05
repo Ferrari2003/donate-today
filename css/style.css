@@ -1,0 +1,27 @@
+body{
+    font-family: 'Acme', sans-serif;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  /* Centered text */
+  .centered {
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
+  .link-button{
+    background-image:linear-gradient(orange,tomato);
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+    color: white;
+  }
