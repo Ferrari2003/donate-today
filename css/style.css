@@ -22,6 +22,37 @@ body{
     background-image:linear-gradient(orange,tomato);
     text-decoration: none;
     padding: 10px;
-    margin: 20px;
+    margin: 10px;
     color: white;
+    border-radius: 10px;
   }
+  .container-2{
+    text-align: center;
+  }
+.container-3{
+    display: inline-flex;
+    justify-content: center;
+    margin: 1%;
+    padding: 1px;
+}
+
+.container-4{
+    border-bottom: 1px solid black;
+    text-align: center;
+    
+    
+}
+.my{
+    text-align: center;
+    
+}
+.container-5{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.container-6{
+    text-align: center;
+}
