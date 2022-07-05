@@ -56,3 +56,36 @@ body{
 .container-6{
     text-align: center;
 }
+.flax-container1{
+    width: 30%;
+    margin: 5%;
+    box-shadow: 10px 10px 20px gray;
+    background-color: antiquewhite;
+   
+}
+.flax-container1 img{
+    width: 40px;
+    padding: 20px;
+}
+.flax-container2{
+    width: 30%;
+    margin: 5%;
+    box-shadow: 10px 10px 20px gray;
+    background-color:gainsboro;
+    
+    
+}
+.flax-container2 img{
+    width: 40px;
+    padding: 20px;
+}
+.flax-container3{
+    width: 30%;
+    margin: 5%;
+    box-shadow: 10px 10px 20px gray;
+    background-color:gainsboro;
+}
+.flax-container3 img{
+    width: 40px;
+    padding: 20px
+}
