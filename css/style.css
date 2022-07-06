@@ -132,6 +132,7 @@ body {
     margin-right: 220px;
     padding: 90px;
     text-align: center;
+    border-radius: 20px;
 }
 #last_part {
     width: 100%;
