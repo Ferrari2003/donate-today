@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Acme', sans-serif;
 }
 
@@ -6,86 +6,154 @@ body{
     position: relative;
     text-align: center;
     color: white;
-  }
-  
-  
-  /* Centered text */
-  .centered {
-  
+}
+
+
+/* Centered text */
+.centered {
+
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    
-  }
-  .link-button{
-    background-image:linear-gradient(orange,tomato);
+
+}
+
+.link-button {
+    background-image: linear-gradient(orange, tomato);
     text-decoration: none;
     padding: 10px;
     margin: 10px;
     color: white;
     border-radius: 10px;
-  }
-  .container-2{
+}
+.second_blog{
     text-align: center;
-  }
-.container-3{
-    display: inline-flex;
+}
+.donation_field {
+    display: flex;
     justify-content: center;
-    margin: 1%;
-    padding: 1px;
+    justify-content: space-evenly;
+}
+.donate_text{
+    text-align: center;
+    border-bottom: 2px solid black;
 }
 
-.container-4{
-    border-bottom: 1px solid black;
-    text-align: center;
-    
-    
+.donation_field_span {
+    border: 2px solid red;
+    width: 300px;
+    padding: 10px;
+    border-radius: 8px;
+    background: lightsalmon;
+    color: #fff;
 }
-.my{
-    text-align: center;
-    
+
+.expoloar_area {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
 }
-.container-5{
+
+
+.my {
+    text-align: center;
+
+}
+
+.container-5 {
     text-decoration: none;
-    background-image: linear-gradient(tomato,orange);
+    background-image: linear-gradient(tomato, orange);
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
 }
-.container-6{
-    text-align: center;
+
+.container-6 {
+   text-align: center;
 }
-.flax-container1{
+
+.flex_container1 {
     width: 30%;
     margin: 5%;
     box-shadow: 10px 10px 20px gray;
     background-color: antiquewhite;
-   
+    text-align: center;
+
 }
-.flax-container1 img{
+
+.flex_container1 img {
+    margin-top: 20px;
     width: 40px;
     padding: 20px;
 }
-.flax-container2{
+
+.flex_container1_heading {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.flex-container2 {
     width: 30%;
     margin: 5%;
     box-shadow: 10px 10px 20px gray;
-    background-color:gainsboro;
-    
-    
+    background-color: cadetblue;
+    text-align: center;
+
+
 }
-.flax-container2 img{
+
+.flex-container2 img {
+    margin-top: 20px;
     width: 40px;
     padding: 20px;
 }
-.flax-container3{
+
+.flex-container3 {
     width: 30%;
     margin: 5%;
     box-shadow: 10px 10px 20px gray;
-    background-color:gainsboro;
+    background-color: gainsboro;
+    text-align: center;
 }
-.flax-container3 img{
+
+.flex-container3 img {
+    margin-top: 20px;
     width: 40px;
     padding: 20px
 }
+.footer_side{
+    text-align: center;
+}
+.footer_side2{
+    background-color: lightpink;
+    box-shadow: 10px 10px 20px grey;
+    margin-left: 220px;
+    margin-right: 220px;
+    padding: 90px;
+    text-align: center;
+}
+#last_part {
+    width: 100%;
+    height: 200px;
+    color: #fff;
+    background: black;
+    text-align: center;
+  }
+  
+  #last_span {
+    color: orange;
+    margin-right: 20px;
+    font-style: italic;
+  }
+  #another_span {
+    color: grey;
+  }
+  
+  #footer_last_part {
+    font-size: 70px;
+  }
+  
+  .footer_last_part {
+    font-size: 25px;
+  }
