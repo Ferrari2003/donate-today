@@ -139,9 +139,14 @@ body {
     text-align: center;
     border-radius: 20px;
 }
+.footer3-{
+    border-radius: 10px;
+    background-color: gainsboro;
+}
 .footer3{
     background-image: linear-gradient(tomato,tomato);
     color: white;
+    border-radius: 10px;
 }    
 #last_part {
     width: 100%;
