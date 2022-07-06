@@ -37,7 +37,11 @@ body {
     justify-content: space-evenly;
 }
 .donate_text{
-    text-align: center;
+    width: 50%;
+    margin: 20px;
+    display:inline-flex ;
+   justify-content: center;
+    
     border-bottom: 2px solid black;
 }
 
