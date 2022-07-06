@@ -139,6 +139,10 @@ body {
     text-align: center;
     border-radius: 20px;
 }
+.footer3{
+    background-image: linear-gradient(tomato,tomato);
+    color: white;
+}    
 #last_part {
     width: 100%;
     height: 200px;
